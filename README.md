@@ -151,7 +151,15 @@ For every lab, the workflow you will use to solve it is:
 
 3. Run the tests with `learn` from your terminal.
 
-4. Open any files you need to edit using the File Tree.
+
+
+
+
+
+4. Open any files you need to edit using the File Tree
+
+
+
 
 5. Write code in the Text Editor that will satisfy the lab requirements.
 
@@ -159,4 +167,8 @@ For every lab, the workflow you will use to solve it is:
 
 6. Once the tests are passing or even if you're just done for the day, submit the lab with `learn submit`.
 
+
+
 7. If you ever get stuck, use "Ask a Question" to get help, don't be shy!
+
+hello gee
