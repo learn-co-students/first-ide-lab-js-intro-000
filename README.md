@@ -170,4 +170,4 @@ For every lab, the workflow you will use to solve it is:
 
 
 7. If you ever get stuck, use "Ask a Question" to get help, don't be shy!
-hey gee!
+Hello World!
