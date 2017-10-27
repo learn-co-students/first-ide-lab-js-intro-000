@@ -1,1 +1,3 @@
 Hello world
+This is not an easy task to master
+I like to get better at coding
