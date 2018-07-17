@@ -1,0 +1,3 @@
+"Hi there!"
+"I want to learn JavaScript to code an awesome IDE"
+"Thank you"
