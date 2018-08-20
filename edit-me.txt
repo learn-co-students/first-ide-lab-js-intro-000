@@ -1,0 +1,3 @@
+Hello, World!
+alert('Hello, world!')
+alert(`It\s true that 5 + 2 equals ${5+2}`)
