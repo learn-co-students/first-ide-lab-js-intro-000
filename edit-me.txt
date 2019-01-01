@@ -1,0 +1,3 @@
+Hello World.
+Eager to learn JavaScript, and many other things.
+---a student of Flatiron School
