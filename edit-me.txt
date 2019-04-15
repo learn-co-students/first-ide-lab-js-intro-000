@@ -1,0 +1,2 @@
+var firstLearn = "Hello World!";
+console.log(firstLearn);
