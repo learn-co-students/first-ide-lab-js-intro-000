@@ -1,0 +1,2 @@
+Hello World! This is my first of many labs with learn.co.
+I am going to learn JavaScript and apply my knowledge to develop a solid portfolio to land a job in the tech sector and become a better employee.
