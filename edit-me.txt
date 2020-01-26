@@ -1,0 +1,2 @@
+"Hello, World!"
+alert("This is your leader speaking!")
