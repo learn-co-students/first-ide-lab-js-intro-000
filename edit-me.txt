@@ -1,1 +1,3 @@
 Hello, World!;
+var word = bird
+console.log(word);
