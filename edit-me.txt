@@ -1,0 +1,12 @@
+Learn IDE opened with the new line of the console as partially hidden, had to resize it or pop it out to fix it. Annoying.
+Also earlier Learn IDE installed without asking me where to install it. I don't want things on C:. I don't like this trend of programs thinking they can just install themselves on C:.
+
+why is there a heart in the terminal
+is terminal != console
+typing "console" doesn't give anything.
+
+why is README.md a markdown file when it's HTML
+oh i see, typora can read html. some of it shows up. something about markdown not being truly standardized.
+
+the "learn" command/test here checks whether "edit-me.txt" is empty, not whether or not the file has actually been edited. the test is presumably the "first_ide_lab_spec.rb" file. "rb" presumably means Ruby. there is no "learn" in that file. unclear where "learn" is going to call that file, or if that file is executing. i suppose i could remove it and see if "learn" still functions. seems like it only changes what shows up in the terminal though.
+  > "When you run learn, you will also see that the Learn website is aware of the status of your lab represented by the "Lights" on the right." i see.
