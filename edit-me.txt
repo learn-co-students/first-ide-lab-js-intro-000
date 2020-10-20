@@ -1,1 +1,2 @@
-Hi there
+"hello there"
+console.log("hello")
