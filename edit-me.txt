@@ -1,0 +1,8 @@
+// Javascript Arrays are something else...
+
+Const Fruits = ['apples', 'oranges', 'bananas'];
+
+console.log(fruits);
+
+
+// I have been trying to figrue this out from a youtube video and it does work for me
