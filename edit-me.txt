@@ -1,0 +1,2 @@
+//helloworld!
+/*an adequate demonstration of the comments syntax, which i have already completely learned*/
